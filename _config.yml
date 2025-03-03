@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: tales-of-an-absurdist
+description: absurd blogs on AI and everything that i find interesting.
+author: yugant-ghimire
+url: https://yugant10-commits.github.io
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

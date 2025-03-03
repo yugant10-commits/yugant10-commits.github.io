@@ -1,0 +1,22 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: -apple-system, system-ui, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #eee;
+}
+
+.post-date {
+    color: #666;
+    margin-bottom: 1em;
+}
+
+article {
+    margin-bottom: 2em;
+} 
